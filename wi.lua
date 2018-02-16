@@ -461,3 +461,4 @@ end
 batpct:buttons(awful.util.table.join(awful.button({ }, 1, popup_bat)))
 baticon:buttons(batpct:buttons())
 -- }}}
+-- prueba
